@@ -1,0 +1,12 @@
+.container{
+    width: 1000px;
+    height: 600px;
+    background-color: white;
+    margin: 0% auto;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+}
+.title{
+    margin: 1rem 0px;
+}
